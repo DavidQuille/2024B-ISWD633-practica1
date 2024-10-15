@@ -29,7 +29,7 @@ docker pull hello-world
 ```
 
 **¿Qué es nginx**
-# COMPLETAR 
+no se 
 
 Descargar la imagen  **nginx** en la versión **alpine**
 ```
